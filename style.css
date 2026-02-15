@@ -52,9 +52,10 @@ body{font-family:'Inter',system-ui,sans-serif;background:var(--bg);color:var(--t
 /* Sign list */
 .signs-list{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:8px;margin-bottom:16px}
 .signs-list.compact{grid-template-columns:repeat(auto-fill,minmax(240px,1fr))}
-.sign-item{padding:10px 14px;border-radius:10px;background:var(--bg2);border:1px solid rgba(255,255,255,.04);font-size:.85rem;transition:all .2s}
+.sign-item{padding:12px 16px;border-radius:10px;background:var(--bg2);border:1px solid rgba(255,255,255,.04);font-size:.85rem;transition:all .2s;display:flex;flex-direction:column;gap:4px}
 .sign-item:hover{background:var(--bg3);border-color:rgba(255,255,255,.08)}
 .sign-item b{color:var(--accent);margin-right:6px;font-weight:600}
+.sign-desc{color:var(--text2);font-size:.78rem;line-height:1.5;margin-top:2px}
 
 /* Image overlay / zoom */
 .img-overlay{position:fixed;inset:0;z-index:1000;background:rgba(0,0,0,.9);display:flex;align-items:center;justify-content:center;opacity:0;transition:opacity .3s;cursor:zoom-out;padding:20px}
