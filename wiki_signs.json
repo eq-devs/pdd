@@ -1,0 +1,1412 @@
+[
+  {
+    "title": "Ескерту белгілері",
+    "signs": [
+      {
+        "number": "1.1",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/RU_road_sign_1.1.svg/120px-RU_road_sign_1.1.svg.png",
+        "name": "Шлагбаумы бар теміржол өтпесі",
+        "description": ""
+      },
+      {
+        "number": "1.2",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/RU_road_sign_1.2.svg/120px-RU_road_sign_1.2.svg.png",
+        "name": "Шлагбаумы жоқ теміржол өтпесі",
+        "description": ""
+      },
+      {
+        "number": "1.3.1",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/RU_road_sign_1.3.1.svg/120px-RU_road_sign_1.3.1.svg.png",
+        "name": "Бір жолды теміржол",
+        "description": "Шлагбауммен жабдықталмаған теміржол арқылы өтпені белгілеу: бір жолмен."
+      },
+      {
+        "number": "1.3.2",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/RU_road_sign_1.3.2.svg/120px-RU_road_sign_1.3.2.svg.png",
+        "name": "Көп жолды теміржол",
+        "description": "Шлагбауммен жабдықталмаған теміржол арқылы өтпені белгілеу: бір жолмен."
+      },
+      {
+        "number": "1.4.1",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/RU_road_sign_1.4.1.svg/120px-RU_road_sign_1.4.1.svg.png",
+        "name": "Теміржол өтпесіне жақындау",
+        "description": "Елді мекеннен тыс теміржол өтпесіне жақындау туралы қосымша ескерту."
+      },
+      {
+        "number": "1.5",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/RU_road_sign_1.5.svg/120px-RU_road_sign_1.5.svg.png",
+        "name": "Трамвай желісімен қиылысу",
+        "description": ""
+      },
+      {
+        "number": "1.6",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/RU_road_sign_1.6.svg/120px-RU_road_sign_1.6.svg.png",
+        "name": "Тең мағыналы жолдардың қиылысуы",
+        "description": ""
+      },
+      {
+        "number": "1.7",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/RU_road_sign_1.7.svg/120px-RU_road_sign_1.7.svg.png",
+        "name": "Шеңберлі жүріспен қиылысу",
+        "description": ""
+      },
+      {
+        "number": "1.8",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/RU_road_sign_1.8.svg/120px-RU_road_sign_1.8.svg.png",
+        "name": "Бағдаршамның реттеуі",
+        "description": ""
+      },
+      {
+        "number": "1.9",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/RU_road_sign_1.9.svg/120px-RU_road_sign_1.9.svg.png",
+        "name": "Ашылатын көпір",
+        "description": ""
+      },
+      {
+        "number": "1.10",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RU_road_sign_1.10.svg/120px-RU_road_sign_1.10.svg.png",
+        "name": "Жағалауға шығу",
+        "description": ""
+      },
+      {
+        "number": "1.11.1",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/RU_road_sign_1.11.1.svg/120px-RU_road_sign_1.11.1.svg.png",
+        "name": "Қауіпті бұрылыс оңға",
+        "description": ""
+      },
+      {
+        "number": "1.11.2",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/RU_road_sign_1.11.2.svg/120px-RU_road_sign_1.11.2.svg.png",
+        "name": "Қауіпті бұрылыс солға",
+        "description": ""
+      },
+      {
+        "number": "1.12.1",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/RU_road_sign_1.12.1.svg/120px-RU_road_sign_1.12.1.svg.png",
+        "name": "Қауіпті бұрылыстар",
+        "description": "Қауіпті бұрылыстар бар жол учаскелері: бірінші бұрылыспен оңға."
+      },
+      {
+        "number": "1.12.2",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/RU_road_sign_1.12.2.svg/120px-RU_road_sign_1.12.2.svg.png",
+        "name": "Қауіпті бұрылыстар бар жол учаскелері: бірінші бұрылыспен солға."
+      },
+      {
+        "number": "1.13",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/RU_road_sign_1.13.svg/120px-RU_road_sign_1.13.svg.png",
+        "name": "Тік еңіс",
+        "description": ""
+      },
+      {
+        "number": "1.14",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/RU_road_sign_1.14.svg/120px-RU_road_sign_1.14.svg.png",
+        "name": "Тік өрлеу",
+        "description": ""
+      },
+      {
+        "number": "1.15",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/RU_road_sign_1.15.svg/120px-RU_road_sign_1.15.svg.png",
+        "name": "Тайғақ жол",
+        "description": ""
+      },
+      {
+        "number": "1.16",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/RU_road_sign_1.16.svg/120px-RU_road_sign_1.16.svg.png",
+        "name": "Тегіс емес жол",
+        "description": ""
+      },
+      {
+        "number": "1.16.1",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/BY_road_sign_1.16.1.svg/120px-BY_road_sign_1.16.1.svg.png",
+        "name": "Жасанды бұдырлық",
+        "description": ""
+      },
+      {
+        "number": "1.17",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/RU_road_sign_1.18.svg/120px-RU_road_sign_1.18.svg.png",
+        "name": "Қиыршық тас шашылған",
+        "description": "Көлік құралдарының дөңгелегі астынан қиыршық тас, ұсатылған тас және сол сияқтылар шашырауы мүмкін жол учаскесі."
+      },
+      {
+        "number": "1.18.1",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/RU_road_sign_1.20.1.svg/120px-RU_road_sign_1.20.1.svg.png",
+        "name": "Жолдың тарылуы",
+        "description": "Екі жағынан тарылуы."
+      },
+      {
+        "number": "1.18.2",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/RU_road_sign_1.20.2.svg/120px-RU_road_sign_1.20.2.svg.png",
+        "name": "Оң жағынан тарылуы."
+      },
+      {
+        "number": "1.18.3",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/RU_road_sign_1.20.3.svg/120px-RU_road_sign_1.20.3.svg.png",
+        "name": "Сол жағынан тарылуы."
+      },
+      {
+        "number": "1.19",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/RU_road_sign_1.21.svg/120px-RU_road_sign_1.21.svg.png",
+        "name": "Екіжақты жүріс",
+        "description": "Қарсы жүру жол учаскесінің (жүру бөлігінің) басталуы."
+      },
+      {
+        "number": "1.20",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/RU_road_sign_1.22.svg/120px-RU_road_sign_1.22.svg.png",
+        "name": "Жаяу жүргінші өткелі",
+        "description": "5.16.1, 5.16.2 белгілерімен және (немесе). 1.14.1 – 1.14.3 таңбаларымен белгіленген жаяу жүргінші өткелі."
+      },
+      {
+        "number": "1.21",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/RU_road_sign_1.23.svg/120px-RU_road_sign_1.23.svg.png",
+        "name": "Балалар",
+        "description": "Балалар мекемесіне (мектептер, сауықтыру лагерлері және сол сияқтылар) жақын балалар жүріс бөлігіне шыға келуі мүмкін жол учаскесі."
+      },
+      {
+        "number": "1.22",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/RU_road_sign_1.24.svg/120px-RU_road_sign_1.24.svg.png",
+        "name": "Велосипед жолымен қиылысу",
+        "description": ""
+      },
+      {
+        "number": "1.23",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/SU_road_sign_1.23.svg/120px-SU_road_sign_1.23.svg.png",
+        "name": "Жол жұмыстары",
+        "description": ""
+      },
+      {
+        "number": "1.24",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/RU_road_sign_1.26.svg/120px-RU_road_sign_1.26.svg.png",
+        "name": "Мал айдау",
+        "description": ""
+      },
+      {
+        "number": "1.25",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/RU_road_sign_1.27.svg/120px-RU_road_sign_1.27.svg.png",
+        "name": "Жабайы хайуанаттар",
+        "description": ""
+      },
+      {
+        "number": "1.26",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/RU_road_sign_1.28.svg/120px-RU_road_sign_1.28.svg.png",
+        "name": "Тас түсу",
+        "description": "Опырылып құлау, көшкін жүруі, тас түсуі мүмкін жол учаскесі."
+      },
+      {
+        "number": "1.27",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/RU_road_sign_1.29.svg/120px-RU_road_sign_1.29.svg.png",
+        "name": "Бүйірден соғатын жел",
+        "description": ""
+      },
+      {
+        "number": "1.28",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/RU_road_sign_1.30.svg/120px-RU_road_sign_1.30.svg.png",
+        "name": "Төмен ұшатын ұшақтар",
+        "description": ""
+      },
+      {
+        "number": "1.29",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/RU_road_sign_1.31.svg/120px-RU_road_sign_1.31.svg.png",
+        "name": "Тоннель",
+        "description": "Жасанды жарықтандыруы жоқ тоннель немесе кіру порталының көрінуі шектеулі тоннель."
+      },
+      {
+        "number": "1.30",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/RU_road_sign_1.33.svg/120px-RU_road_sign_1.33.svg.png",
+        "name": "Басқа қауіптер",
+        "description": "Басқа ескерту белгілерімен көзделмеген қауіптіліктері бар жол учаскесі."
+      },
+      {
+        "number": "1.31.1",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/RU_road_sign_1.34.1_A.svg/120px-RU_road_sign_1.34.1_A.svg.png",
+        "name": "Бұрылыстың бағыты",
+        "description": "Т үлгісіндегі жол қиылысында немесе жолдардың тармақталуындағы жүру бағыты. Жолдың жөнделетін учаскесін айналып өту бағыты."
+      },
+      {
+        "number": "1.31.4",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/KZ_road_sign_1.31.4.svg/120px-KZ_road_sign_1.31.4.svg.png",
+        "name": "Бұрылыс бағыты",
+        "description": ""
+      },
+      {
+        "number": "1.32.1",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/KZ_road_sign_1.32.1.svg/120px-KZ_road_sign_1.32.1.svg.png",
+        "name": "Кедергіні айналып өту",
+        "description": ""
+      },
+      {
+        "number": "1.33",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/RU_road_sign_1.19.svg/120px-RU_road_sign_1.19.svg.png",
+        "name": "Қауіпті жол жиегі",
+        "description": ""
+      },
+      {
+        "number": "1.34",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/RU_road_sign_1.32.svg/120px-RU_road_sign_1.32.svg.png",
+        "name": "Кептеліс",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "Басымдылық белгілері",
+    "signs": [
+      {
+        "number": "2.1",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/RU_road_sign_2.1.svg/120px-RU_road_sign_2.1.svg.png",
+        "name": "Басты жол",
+        "description": "Реттелмейтін жол қиылыстарынан басымдықпен өту құқығы берілген жолдар."
+      },
+      {
+        "number": "2.2",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/RU_road_sign_2.2.svg/120px-RU_road_sign_2.2.svg.png",
+        "name": "Басты жолдың аяқталуы",
+        "description": "2.1 белгісін жояды."
+      },
+      {
+        "number": "2.3.1",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/RU_road_sign_2.3.1.svg/120px-RU_road_sign_2.3.1.svg.png",
+        "name": "Екінші дәрежелі жолмен қиылысу",
+        "description": ""
+      },
+      {
+        "number": "2.3.2",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/RU_road_sign_2.3.2.svg/120px-RU_road_sign_2.3.2.svg.png",
+        "name": "Екінші дәрежелі жолға жанасу",
+        "description": ""
+      },
+      {
+        "number": "2.4",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/RU_road_sign_2.4.svg/120px-RU_road_sign_2.4.svg.png",
+        "name": "Жол беріңіз",
+        "description": "Жүргізуші қиылысатын, ал 7.13 тақтайшасы болған кезде басты жолдың бойымен жүріп келе жатқан көлік құралдарына жол береді."
+      },
+      {
+        "number": "2.5",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/RU_road_sign_2.5.svg/120px-RU_road_sign_2.5.svg.png",
+        "name": "Аялдамай жүруге тыйым салынады",
+        "description": "Тоқтау-сызығының алдында, ол жоқ болса – қиылысатын жүру бөлігінің шетіне жетпей аялдамай жүруге тыйым салынады. Жүргізуші қиылысатын жол бойымен, ал 7.13 тақтайшасы болған кезде – басты жолмен жүретін көлік құралына жол береді. 2.5 белгісі теміржол өтпесі немесе карантин бекеті алдынан қойылуы мүмкін. Мұндай жағдайларда жүргізуші тоқтау – сызығының, ал ол жоқ болса – белгінің алдында тоқтайды."
+      },
+      {
+        "number": "2.6",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/RU_road_sign_2.6.svg/120px-RU_road_sign_2.6.svg.png",
+        "name": "Қарсы жүру басымдығы",
+        "description": "Егер бұл қарсы жүруді қиындататын болса, жолдың тар учаскесіне шығуға тыйым салынады. Жүргізуші тар учаскедегі немесе оған қарама-қарсы кіру жолындағы қарсы көлік құралдарына жол береді."
+      },
+      {
+        "number": "2.7",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/RU_road_sign_2.7.svg/120px-RU_road_sign_2.7.svg.png",
+        "name": "Қарсы жүру алдындағы басымдық",
+        "description": "Жүргізуші оның бойымен жүру кезінде қарсы көлік құралдарына қарағанда басымдықпен пайдаланатын жолдың тар учаскесі."
+      }
+    ]
+  },
+  {
+    "title": "Тыйым салатын белгілер",
+    "signs": [
+      {
+        "number": "3.1",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/RU_road_sign_3.1.svg/120px-RU_road_sign_3.1.svg.png",
+        "name": "Кіруге тыйым салынады",
+        "description": "Осы бағытта барлық көлік құралдарының кіруіне тыйым салынады."
+      },
+      {
+        "number": "3.2",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/RU_road_sign_3.2.svg/120px-RU_road_sign_3.2.svg.png",
+        "name": "Жүруге тыйым салынады",
+        "description": "Барлық көлік құралдарының жүруіне тыйым салынады."
+      },
+      {
+        "number": "3.3",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/RU_road_sign_3.3.svg/120px-RU_road_sign_3.3.svg.png",
+        "name": "Механикалық көлік құралдарының жүруіне тыйым салынады",
+        "description": ""
+      },
+      {
+        "number": "3.4",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/RU_road_sign_3.4.svg/120px-RU_road_sign_3.4.svg.png",
+        "name": "Жүк автомобильдерінің жүруіне тыйым салынады",
+        "description": "Жүк автомобильдері мен рұқсат етілген ең жоғары массасы 3,5 т астам (егер белгіде массасы көрсетілмесе) немесе рұқсат етілген ең жоғары массасы белгіде көрсетілгеннен артық көлік құралдары құрамдарының, сондай-ақ тракторлар мен өздігінен жүретін машиналардың жүруіне тыйым салынады. 3.4 белгісі борттарында қиғаш ақ жолағы бар немесе адамдарды тасымалдауға арналған жүк автомобильдерінің жүруіне тыйым салмайды."
+      },
+      {
+        "number": "3.5",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/RU_road_sign_3.5.svg/120px-RU_road_sign_3.5.svg.png",
+        "name": "Мотоциклдердің жүруіне тыйым салынады",
+        "description": ""
+      },
+      {
+        "number": "3.6",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/RU_road_sign_3.6.svg/120px-RU_road_sign_3.6.svg.png",
+        "name": "Тракторлардың жүруіне тыйым салынады",
+        "description": "Тракторлардың және өздігінен жүретін машиналардың жүруіне тыйым салынады."
+      },
+      {
+        "number": "3.7",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/SU_road_sign_3.7.svg/120px-SU_road_sign_3.7.svg.png",
+        "name": "Тіркемесі бар көлік құралдарының жүруіне тыйым салынады",
+        "description": "Тіркемесі бар көлік құралдарының жүруіне және механикалық көлік құралдарын сүйретуге тыйым салынады."
+      },
+      {
+        "number": "3.8",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/RU_road_sign_3.8.svg/120px-RU_road_sign_3.8.svg.png",
+        "name": "Көлік-арбаның жүруіне тыйым салынады",
+        "description": "Көлік-арбаның (шананың), мініс және жүк артылған малдардың жүруіне, сондай-ақ мал айдауға тыйым салынады."
+      },
+      {
+        "number": "3.9",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/RU_road_sign_3.9.svg/120px-RU_road_sign_3.9.svg.png",
+        "name": "Велосипедпен жүруге тыйым салынады",
+        "description": "Велосипедтер мен мопедтердің жүруіне тыйым салынады."
+      },
+      {
+        "number": "3.10",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/RU_road_sign_3.10.svg/120px-RU_road_sign_3.10.svg.png",
+        "name": "Жаяу жүргіншілердің жүруіне тыйым салынады",
+        "description": ""
+      },
+      {
+        "number": "3.11",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/RU_road_sign_3.11.svg/120px-RU_road_sign_3.11.svg.png",
+        "name": "Массаны шектеу",
+        "description": "Жалпы нақты массасы белгіде көрсетілгеннен артық көлік құралдарының, оның ішінде көлік құралдары құрамдарының жүруіне тыйым салынады."
+      },
+      {
+        "number": "3.12",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/KZ_road_sign_3.12.svg/120px-KZ_road_sign_3.12.svg.png",
+        "name": "Оське түсетін жүктемені шектеу",
+        "description": "Қандай болса да оське түсетін нақты жүктемесі белгіде көрсетілгеннен артық көлік құралдарының жүруіне тыйым салынады."
+      },
+      {
+        "number": "3.13",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/SU_road_sign_3.13.svg/120px-SU_road_sign_3.13.svg.png",
+        "name": "Биіктікті шектеу",
+        "description": "Габариттік биіктігі (жүкпен немесе жүксіз) белгіде көрсетілгеннен артық көлік құралдарының жүруіне тыйым салынады."
+      },
+      {
+        "number": "3.14",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/RU_road_sign_3.14.svg/120px-RU_road_sign_3.14.svg.png",
+        "name": "Енді шектеу",
+        "description": "Габариттік ені (жүкпен немесе жүксіз) белгіде көрсетілгеннен артық көлік құралдарының жүруіне тыйым салынады."
+      },
+      {
+        "number": "3.15",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RU_road_sign_3.15.svg/120px-RU_road_sign_3.15.svg.png",
+        "name": "Ұзындықты шектеу",
+        "description": "Габариттік ұзындығы (жүкпен немесе жүксіз) белгіде көрсетілгеннен артық көлік құралдарының (көлік құралдары құрамының) жүруіне тыйым салынады."
+      },
+      {
+        "number": "3.16",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/RU_road_sign_3.16.svg/120px-RU_road_sign_3.16.svg.png",
+        "name": "Ең төменгі дистанцияны шектеу",
+        "description": "Олардың арасындағы дистанция белгіде көрсетілгеннен кем көлік құралдарының жүруіне тыйым салынады."
+      },
+      {
+        "number": "3.17.1",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/KZ_road_sign_3.17.1.svg/120px-KZ_road_sign_3.17.1.svg.png",
+        "name": "Кеден",
+        "description": "Кеден (бақылау пунктінің) жанында тоқтамай өтуге тыйым салынады."
+      },
+      {
+        "number": "3.17.2",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/KZ_road_sign_3.17.2.svg/120px-KZ_road_sign_3.17.2.svg.png",
+        "name": "Қауіптілік",
+        "description": "Жол-көлік оқиғаларына, аварияға немесе басқа қауіптіліктерге байланысты әрі қарай барлық көлік құралдарының жүруіне ерекшеліксіз тыйым салынады."
+      },
+      {
+        "number": "3.17.3",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/KZ_road_sign_3.17.3.svg/120px-KZ_road_sign_3.17.3.svg.png",
+        "name": "Бақылау",
+        "description": "Бақылау пункттері арқылы аялдаусыз жүруге тыйым салынады."
+      },
+      {
+        "number": "3.18.1",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/RU_road_sign_3.18.1.svg/120px-RU_road_sign_3.18.1.svg.png",
+        "name": "Оңға бұрылуға тыйым салынады",
+        "description": ""
+      },
+      {
+        "number": "3.18.2",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/RU_road_sign_3.18.2.svg/120px-RU_road_sign_3.18.2.svg.png",
+        "name": "Солға бұрылуға тыйым салынады",
+        "description": ""
+      },
+      {
+        "number": "3.19",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/RU_road_sign_3.19.svg/120px-RU_road_sign_3.19.svg.png",
+        "name": "Кері бұрылуға тыйым салынады",
+        "description": ""
+      },
+      {
+        "number": "3.20",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/RU_road_sign_3.20.svg/120px-RU_road_sign_3.20.svg.png",
+        "name": "Басып озуға тыйым салынады",
+        "description": "Сағатына 30 километрден кем жылдамдықпен жүріп келе жатқан жекелегендерден басқа, барлық көлік құралдарын басып озуға тыйым салынады."
+      },
+      {
+        "number": "3.21",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/RU_road_sign_3.21.svg/120px-RU_road_sign_3.21.svg.png",
+        "name": "Басып озуға тыйым салынатын аймақтың аяқталуы",
+        "description": "3.20 белгісін жояды."
+      },
+      {
+        "number": "3.22",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/RU_road_sign_3.22.svg/120px-RU_road_sign_3.22.svg.png",
+        "name": "Жүк автомобильдеріне басып озуға тыйым салынады",
+        "description": "Рұқсат етілген ең жоғары массасы 3,5 т артық жүк автомобильдеріне, сағатына 30 километрден кем жылдамдықпен жүретін жекелегендерінен басқа, барлық көлік құралдарын басып озуға тыйым салынады. Тракторларға көлік-арба және велосипедтерден басқа барлық көлік құралдарын басып озуға тыйым салынады."
+      },
+      {
+        "number": "3.23",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/RU_road_sign_3.23.svg/120px-RU_road_sign_3.23.svg.png",
+        "name": "Жүк автомобильдерінің басып озуына тыйым салынатын аймақтың аяқталуы",
+        "description": "3.22 белгісін жояды."
+      },
+      {
+        "number": "3.24",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/RU_road_sign_3.24-50.svg/120px-RU_road_sign_3.24-50.svg.png",
+        "name": "Ең жоғары жылдамдықты шектеу",
+        "description": "Белгіде көрсетілгеннен артық жылдамдықпен (км/сағ) жүруге тыйым салынады. Ескертпе. Егер жолдың осы учаскесіне енгізілетін ең жоғары жылдамдықты шектеу алдыңғы учаскедегі қозғалыстың жол берілген жылдамдығынан 20 км/сағ. аса өзгеше болатын болса, бір-бірінен 100 метрден 150 метрге дейінгі арақашықтыққа алшақтатылған 3.24 белгілерін жүйелі орнату арқылы 20 км/сағ. аспайтын қадаммен жылдамдықты сатылап шектеу қолданылады. Жылдамдықты сатылап шектеу, егер белгілердің көрінуі кемінде 150 м құраса, 5.22 белгісімен белгіленген елді мекендер алдында қолданылмайды."
+      },
+      {
+        "number": "3.25",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/RU_road_sign_3.25-50.svg/120px-RU_road_sign_3.25-50.svg.png",
+        "name": "Ең жоғары жылдамдық шектелетін аймақтың аяқталуы",
+        "description": "3.24 белгісін жояды."
+      },
+      {
+        "number": "3.26",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/RU_road_sign_3.26.svg/120px-RU_road_sign_3.26.svg.png",
+        "name": "Дыбыстық сигнал беруге тыйым салынады",
+        "description": "Сигнал жол-көлік оқиғаларын болдырмау үшін берілген жағдайлардан басқа дыбыс сигналын пайдалануға тыйым салынады."
+      },
+      {
+        "number": "3.27",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/RU_road_sign_3.27.svg/120px-RU_road_sign_3.27.svg.png",
+        "name": "Тоқтауға тыйым салынады",
+        "description": "Көлік құралдарының тоқтауына және тоқтап тұруына тыйым салынады."
+      },
+      {
+        "number": "3.28",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/RU_road_sign_3.28.svg/120px-RU_road_sign_3.28.svg.png",
+        "name": "Тоқтап тұруға тыйым салынады",
+        "description": "Көлік құралдарының тоқтап тұруына тыйым салынады."
+      },
+      {
+        "number": "3.29",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RU_road_sign_3.29.svg/120px-RU_road_sign_3.29.svg.png",
+        "name": "Айдың тақ күндері тоқтап тұруға тыйым салынады",
+        "description": "3.29 және 3.30 белгілерін бір мезгілде қолдану кезінде көлік құралдарының бір жақтан екіншісіне орын ауыстыру уақыты – сағат 19-дан 21-ге дейін."
+      },
+      {
+        "number": "3.30",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/RU_road_sign_3.30.svg/120px-RU_road_sign_3.30.svg.png",
+        "name": "Айдың жұп күндері тоқтап тұруға тыйым салынады"
+      },
+      {
+        "number": "3.31",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/RU_road_sign_3.31.svg/120px-RU_road_sign_3.31.svg.png",
+        "name": "Барлық шектеулер аймағының аяқталуы",
+        "description": "3.16, 3.20, 3.22, 3.24, 3.26 – 3.30 белгілерінің бірнешеуін бір мезгілде қолдану аймағының аяқталуы."
+      },
+      {
+        "number": "3.32",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/RU_road_sign_3.32.svg/120px-RU_road_sign_3.32.svg.png",
+        "name": "Көлік құралдарының қауіпті жүктермен жүруіне тыйым салынады",
+        "description": "«Қауіпті жүк» деген таным белгімен жабдықталған көлік құралдарының жүруіне тыйым салынады."
+      },
+      {
+        "number": "3.33",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/RU_road_sign_3.33.svg/120px-RU_road_sign_3.33.svg.png",
+        "name": "Көлік құралдарының жарылғыш және тез тұтанғыш жүктермен жүруіне тыйым салынады",
+        "description": "«Қауіпті жүк» деген таным белгімен жабдықталған және МемСТ-19433 бойынша 1, 2.2 – 2.4, 3.1, 3.2, 5.2 сыныптарының қауіпті жүктерін тасымалдауға арналған көлік құралдарының жүруіне тыйым салынады."
+      }
+    ]
+  },
+  {
+    "title": "Нұсқайтын белгілер",
+    "signs": [
+      {
+        "number": "4.1.1",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/RU_road_sign_4.1.1.svg/120px-RU_road_sign_4.1.1.svg.png",
+        "name": "Тура жүру",
+        "description": "Белгілерде бағыттауыштармен көрсетілген бағыттарда ғана жүруге рұқсат етіледі. Солға бұрылуға рұқсат ететін белгілер кері бұрылуға да рұқсат береді (нақты қиылыста қажетті жүру бағыттарына сәйкес келетін бағыттаушы кескіндері бар 4.1.1-4.1.6 белгілері қолданылуы мүмкін). 4.1.1-4.1.6 белгілері маршруттық көлік құралдарына қолданылмайды. 4.1.1-4.1.6 белгілері алдына белгі қойылған жүру бөліктерінің қиылыстарына қолданылады. Жол учаскесінің басында орнатылған 4.1.1 белгісі жақын жол қиылысына дейін қолданылады. Белгі іргелес аумақтарға оңға бұрылуға тыйым салмайды."
+      },
+      {
+        "number": "4.1.2",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/RU_road_sign_4.1.2.svg/120px-RU_road_sign_4.1.2.svg.png",
+        "name": "Оңға жүру"
+      },
+      {
+        "number": "4.1.3",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/RU_road_sign_4.1.3.svg/120px-RU_road_sign_4.1.3.svg.png",
+        "name": "Солға жүру"
+      },
+      {
+        "number": "4.1.4",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/RU_road_sign_4.1.4.svg/120px-RU_road_sign_4.1.4.svg.png",
+        "name": "Тура немесе оңға жүру"
+      },
+      {
+        "number": "4.1.5",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/RU_road_sign_4.1.5.svg/120px-RU_road_sign_4.1.5.svg.png",
+        "name": "Тура немесе солға жүру"
+      },
+      {
+        "number": "4.1.6",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/RU_road_sign_4.1.6.svg/120px-RU_road_sign_4.1.6.svg.png",
+        "name": "Оңға немесе солға жүру"
+      },
+      {
+        "number": "4.2.1",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/RU_road_sign_4.2.1.svg/120px-RU_road_sign_4.2.1.svg.png",
+        "name": "Кедергіні оң жағынан айналып өту",
+        "description": "Бағыттауышпен көрсетілген жағынан ғана айналып өтуге рұқсат етіледі."
+      },
+      {
+        "number": "4.2.2",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/RU_road_sign_4.2.2.svg/120px-RU_road_sign_4.2.2.svg.png",
+        "name": "Кедергіні сол жағынан айналып өту",
+        "description": "Бағыттауышпен көрсетілген жағынан ғана айналып өтуге рұқсат етіледі."
+      },
+      {
+        "number": "4.2.3",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/RU_road_sign_4.2.3.svg/120px-RU_road_sign_4.2.3.svg.png",
+        "name": "Кедергіні оң немесе сол жағынан айналып өту",
+        "description": "Кез келген жақтан айналып өтуге рұқсат етіледі."
+      },
+      {
+        "number": "4.3",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/RU_road_sign_4.3.svg/120px-RU_road_sign_4.3.svg.png",
+        "name": "Шеңберлі жүріс",
+        "description": "Бағыттауыштармен көрсетілген бағытта жүруге рұқсат етіледі."
+      },
+      {
+        "number": "4.4",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/SU_road_sign_4.4.svg/120px-SU_road_sign_4.4.svg.png",
+        "name": "Жеңіл автомобильдер жүрісі",
+        "description": "Жеңіл автомобильдер, автобустар, мотоциклдер, маршруттық көлік құралдары мен рұқсат етілген ең жоғары массасы 3.5 т аспайтын жүк автомобильдерінің жүрісі рұқсат етіледі. Белгі белгіленген аймақта орналасқан кәсіпорындарға қызмет ететін, сондай-ақ белгіленген аймақта тұратын немесе жұмыс істейтін азаматтарға қызмет көрсететін немесе осы азаматтарға тиесілі басқа көлік құралдарының жүруіне рұқсат береді. Мұндай жағдайларда көлік құралдары белгіленген аймаққа белгіленген жерге жақын жол қиылысынан кіруі немесе содан шығуы керек."
+      },
+      {
+        "number": "4.5",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/RU_road_sign_4.4.1.svg/120px-RU_road_sign_4.4.1.svg.png",
+        "name": "Велосипед жолы немесе велосипед жүретін жолақ",
+        "description": "Велосипедпен және мопедпен ғана жүруге рұқсат етіледі."
+      },
+      {
+        "number": "4.5.1",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/RU_road_sign_4.4.2.svg/120px-RU_road_sign_4.4.2.svg.png",
+        "name": "Велосипед жолының немесе велосипед жүретін жолақтың аяқталуы",
+        "description": "Тек велосипедтер мен мопедтерге рұқсат етіледі. Жаяу жүргіншілер велосипед жолы бойынша да қозғала алады (тротуар, жаяу жүргіншілер жолы немесе иық болмаған жағдайда)."
+      },
+      {
+        "number": "4.5.2",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/RU_road_sign_4.5.4.svg/120px-RU_road_sign_4.5.4.svg.png",
+        "name": "Жүруі бөлінген жаяу жургінші және велосипед жолы",
+        "description": ""
+      },
+      {
+        "number": "4.5.4",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/RU_road_sign_4.5.6.svg/120px-RU_road_sign_4.5.6.svg.png",
+        "name": "Жүруі бөлінген жаяу жүргінші және велосипед жолының аяқталуы",
+        "description": ""
+      },
+      {
+        "number": "4.6",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/RU_road_sign_4.5.1.svg/120px-RU_road_sign_4.5.1.svg.png",
+        "name": "Жаяу жүргіншілер жолы",
+        "description": "Тек қана жаяу жүргіншілердің жүруіне рұқсат етіледі."
+      },
+      {
+        "number": "4.7",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/RU_road_sign_4.6-50.svg/120px-RU_road_sign_4.6-50.svg.png",
+        "name": "Ең төменгі жылдамдықты шектеу",
+        "description": "Тек қана көрсетілген немесе одан көп жылдамдықпен (сағ/км) жүруге рұқсат етіледі."
+      },
+      {
+        "number": "4.8",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/RU_road_sign_4.7-50.svg/120px-RU_road_sign_4.7-50.svg.png",
+        "name": "Ең төменгі жылдамдық шектелетін аймақтың аяқталуы",
+        "description": ""
+      },
+      {
+        "number": "4.9.1",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/RU_road_sign_4.8.1.svg/120px-RU_road_sign_4.8.1.svg.png",
+        "name": "Қауіпті жүгі бар көлік құралдарының жүру бағыты",
+        "description": "«Қауіпті жүк» белгісімен жабдықталған көлік құралына белгіде көрсетілген бағыттар бойынша жүруге рұқсат етіледі: 4.9.1 – оңға 4.9.2 – солға 4.9.3 – түзу"
+      }
+    ]
+  },
+  {
+    "title": "Ақпараттық-нұсқағыш белгілер",
+    "signs": [
+      {
+        "number": "5.1",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/RU_road_sign_5.1.svg/120px-RU_road_sign_5.1.svg.png",
+        "name": "Автомагистраль",
+        "description": "Автомагистральмен жүру тәртібін белгілейтін Қағида талаптары қолданылатын жол."
+      },
+      {
+        "number": "5.2",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/RU_road_sign_5.2.svg/120px-RU_road_sign_5.2.svg.png",
+        "name": "Автомагистральдің аяқталуы",
+        "description": ""
+      },
+      {
+        "number": "5.3",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/RU_road_sign_5.3.svg/120px-RU_road_sign_5.3.svg.png",
+        "name": "Автомобильдерге арналған жол",
+        "description": "Автомобильдер мен мотоциклдердің жүруіне ғана арналған жол."
+      },
+      {
+        "number": "5.4",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/RU_road_sign_5.4.svg/120px-RU_road_sign_5.4.svg.png",
+        "name": "Автомобильдерге арналған жолдың аяқталуы",
+        "description": ""
+      },
+      {
+        "number": "5.5",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/RU_road_sign_5.5.svg/120px-RU_road_sign_5.5.svg.png",
+        "name": "Біржақты жүру жолы",
+        "description": "Көлік құралдарының жүрісі бір бағытта бүкіл ені бойынша жүзеге асырылатын жол немесе жүру бөлігі."
+      },
+      {
+        "number": "5.6",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/RU_road_sign_5.6.svg/120px-RU_road_sign_5.6.svg.png",
+        "name": "Біржақты жүру жолының аяқталуы",
+        "description": ""
+      },
+      {
+        "number": "5.7.1",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/RU_road_sign_5.7.1.svg/120px-RU_road_sign_5.7.1.svg.png",
+        "name": "Біржақты жүру жолына шығу",
+        "description": "Біржақты жүру жолына немесе жүру бөлігіне шығу."
+      },
+      {
+        "number": "5.8.1",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/RU_road_sign_5.15.1.svg/120px-RU_road_sign_5.15.1.svg.png",
+        "name": "Жолақтар бойынша жүру бағыттары",
+        "description": "Жолақтардың саны және олардың әрбіреулерінде рұқсат етілген жүру бағыттары."
+      },
+      {
+        "number": "5.8.2",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/RU_road_sign_5.15.2_A.svg/120px-RU_road_sign_5.15.2_A.svg.png",
+        "name": "Жолақ бойынша жүру бағыттары",
+        "description": "Жолақ бойынша рұқсат етілген жүру бағыттары. Шеткі сол жолақтан сол жаққа бұрылуға рұқсат ететін 5.8.1 және 5.8.2 белгілері осы жолақтан кері бұрылуға да рұқсат етеді. Жол қиылысының алдында орнатылған 5.8.1. және 5.8.2. белгілер, егер онда орнатылған басқа 5.8.1 және 5.8.2 белгілері өзге нұсқаулар бермесе, бүкіл жол қиылысына қолданылады."
+      },
+      {
+        "number": "5.8.2а",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/RU_road_sign_5.15.2_B.svg/120px-RU_road_sign_5.15.2_B.svg.png",
+        "name": "Жолақтар бойынша жүру бағыты",
+        "description": ""
+      },
+      {
+        "number": "5.8.3",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/RU_road_sign_5.15.3_A.svg/120px-RU_road_sign_5.15.3_A.svg.png",
+        "name": "Жолақтың басталуы",
+        "description": "Өрге көтерілуде қосымша жолақтың немесе тежеу жолағының басталуы. Егер қосымша жолақтың алдында орнатылған белгіде «Ең төменгі жылдамдықты шектеу» деген 4.7. белгісі бейнеленген болса, онда көрсетілген немесе одан көп жылдамдықпен негізгі жолақ бойынша жүрісін жалғастыра алмайтын көлік құралының жүргізушісі қосымша жолаққа ауысады."
+      },
+      {
+        "number": "5.8.3а",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/RU_road_sign_5.15.3_C.svg/120px-RU_road_sign_5.15.3_C.svg.png",
+        "name": "Әртүрлі жүру жолақтарындағы міндетті ең төменгі жылдамдық",
+        "description": ""
+      },
+      {
+        "number": "5.8.4",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/RU_road_sign_5.15.4_A.svg/120px-RU_road_sign_5.15.4_A.svg.png",
+        "name": "Жолақтың басталуы",
+        "description": "Осы бағытта жүруге арналған үш жолақты жолдың орта жолағы учаскесінің басталуы."
+      },
+      {
+        "number": "5.8.5",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/RU_road_sign_5.15.5.svg/120px-RU_road_sign_5.15.5.svg.png",
+        "name": "Жолақтың аяқталуы",
+        "description": "Өрге көтерілуде қосымша жолақтың немесе екпінді жүру жолағының аяқталуы."
+      },
+      {
+        "number": "5.8.6",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/RU_road_sign_5.15.6.svg/120px-RU_road_sign_5.15.6.svg.png",
+        "name": "Осы бағытта жүруге арналған үш жолақты жолдың орта жолағы учаскесінің аяқталуы."
+      },
+      {
+        "number": "5.8.7",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/SU_road_sign_5.8.7_A.svg/120px-SU_road_sign_5.8.7_A.svg.png",
+        "name": "Жолақтар бойынша жүру бағыты",
+        "description": "Егер 5.8.7 белгісінде қандай да болмасын көлік құралдарының жүруіне тыйым салатын белгі бейнеленсе, онда осы көлік құралдарының тиісті жолақ бойынша жүруіне тыйым салынады. Бағыттауыштардың тиісті саны бар 5.8.7. және 5.8.8 белгілері төрт және одан да көп жолағы бар жолдарда қолданыла алады. Ауыстырмалы суреті бар 5.8.7. және 5.8.8 белгілерінің көмегімен реверстік жүріс ұйымдастырылуы мүмкін."
+      },
+      {
+        "number": "5.8.9",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/RU_road_sign_5.15.8.svg/120px-RU_road_sign_5.15.8.svg.png",
+        "name": "Әртүрлі жүру жолақтарында қолданылатын жылдамдықты шектеу",
+        "description": ""
+      },
+      {
+        "number": "5.9",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/RU_road_sign_5.14.1.svg/120px-RU_road_sign_5.14.1.svg.png",
+        "name": "Маршруттық көлік құралдарына арналған жолақ",
+        "description": "Көлік құралдарының жалпы легімен жол-жөнекей жүретін маршруттық көлік құралдарының және басқа да қоғамдық көліктің жүруіне ғана арналған жолақ."
+      },
+      {
+        "number": "5.9.1",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/RU_road_sign_5.14.3.svg/120px-RU_road_sign_5.14.3.svg.png",
+        "name": "Маршруттық көлік құралдарына арналған жолақтардың аяқталуы",
+        "description": ""
+      },
+      {
+        "number": "5.10.1",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/RU_road_sign_5.11.1.svg/120px-RU_road_sign_5.11.1.svg.png",
+        "name": "Маршруттық көлік құралдары үшін жолағы бар жол",
+        "description": "Маршруттық көлік құралдарының және басқа да қоғамдық көліктің жүрісі көлік құралдарының жалпы легіне қарсы арнайы бөлінген жолақта жүзеге асырылатын жол."
+      },
+      {
+        "number": "5.10.2",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/RU_road_sign_5.13.1.svg/120px-RU_road_sign_5.13.1.svg.png",
+        "name": "Маршруттық көлік құралдары үшін жолағы бар жолға шығу»",
+        "description": ""
+      },
+      {
+        "number": "5.10.4",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/RU_road_sign_5.12.1.svg/120px-RU_road_sign_5.12.1.svg.png",
+        "name": "Маршруттық көлік құралдары үшін жолағы бар жолдың аяқталуы",
+        "description": ""
+      },
+      {
+        "number": "5.10.5",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/RU_road_sign_5.11.2.svg/120px-RU_road_sign_5.11.2.svg.png",
+        "name": "Велосипедшілерге арналған жолағы бар жол",
+        "description": ""
+      },
+      {
+        "number": "5.10.6",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/RU_road_sign_5.12.2.svg/120px-RU_road_sign_5.12.2.svg.png",
+        "name": "Велосипедшілерге арналған жолағы бар жолдың аяқталуы",
+        "description": ""
+      },
+      {
+        "number": "5.10.7",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/RU_road_sign_5.13.3.svg/120px-RU_road_sign_5.13.3.svg.png",
+        "name": "Велосипедшілерге арналған жолағы бар жолға шығу",
+        "description": ""
+      },
+      {
+        "number": "5.11.1",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/RU_road_sign_6.3.1.svg/120px-RU_road_sign_6.3.1.svg.png",
+        "name": "Кері бұрылу үшін орын",
+        "description": "Солға бұрылуға тыйым салынады"
+      },
+      {
+        "number": "5.11.2",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/RU_road_sign_6.3.2.svg/120px-RU_road_sign_6.3.2.svg.png",
+        "name": "Кері бұрылу үшін аймақ",
+        "description": "Кері бұрылу аймағының ұзындығы. Солға бұрылуға тыйым салынады."
+      },
+      {
+        "number": "5.12",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/RU_road_sign_5.16.svg/120px-RU_road_sign_5.16.svg.png",
+        "name": "Автобус және (немесе) троллейбус тоқтайтын орын",
+        "description": ""
+      },
+      {
+        "number": "5.13",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/RU_road_sign_5.17.svg/120px-RU_road_sign_5.17.svg.png",
+        "name": "Трамвай тоқтайтын орын",
+        "description": ""
+      },
+      {
+        "number": "5.14",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/RU_road_sign_5.18.svg/120px-RU_road_sign_5.18.svg.png",
+        "name": "Жеңіл таксилердің тұрақ орны",
+        "description": ""
+      },
+      {
+        "number": "5.15",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/RU_road_sign_6.4_A.svg/120px-RU_road_sign_6.4_A.svg.png",
+        "name": "Тұрақ орны",
+        "description": ""
+      },
+      {
+        "number": "5.16.1",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/RU_road_sign_5.19.2.svg/120px-RU_road_sign_5.19.2.svg.png",
+        "name": "Жаяу жүргінші өткелі",
+        "description": "Өткелде 1.14.1 – 1.14.3 таңбалары болмаған кезде 5.16.2 белгісі жолдан оң жақта өткелдің жақын шекарасына, ал 5.16.1 белгісі – жолдан сол жаққа өткелдің алыс шекарасына орнатылады."
+      },
+      {
+        "number": "5.17.1",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/SU_road_sign_5.17.1.svg/120px-SU_road_sign_5.17.1.svg.png",
+        "name": "Жер асты жаяу жүргінші өткелі",
+        "description": ""
+      },
+      {
+        "number": "5.17.3",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/SU_road_sign_5.17.3.svg/120px-SU_road_sign_5.17.3.svg.png",
+        "name": "Жер үсті жаяу жүргінші өткелі",
+        "description": ""
+      },
+      {
+        "number": "5.18.1",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/RU_road_sign_6.2-50.svg/120px-RU_road_sign_6.2-50.svg.png",
+        "name": "Ұсынылатын жылдамдық",
+        "description": "Жолдың осы учаскесінде жүруге ұсынылатын жылдамдық. Белгінің қолданылу аймағы жақын жол қиылысына дейін, ал 5.18 белгісін ескерту белгісімен бірге қолдану кезінде қауіпті учаскенің ұзындығымен айқындалады."
+      },
+      {
+        "number": "5.18.2",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/BY_road_sign_5.18.2.svg/120px-BY_road_sign_5.18.2.svg.png",
+        "name": "«Ұсынылған жылдамдық» белгісінің аяқталуы",
+        "description": ""
+      },
+      {
+        "number": "5.19.1",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/RU_road_sign_6.8.1.svg/120px-RU_road_sign_6.8.1.svg.png",
+        "name": "Тұйық",
+        "description": "Толассыз өтуі жоқ жол."
+      },
+      {
+        "number": "5.20.1",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/KZ_road_sign_5.20.1_A.svg/120px-KZ_road_sign_5.20.1_A.svg.png",
+        "name": "Бағыттарды алдын ала нұсқағыш",
+        "description": "Белгіде белгіленген елді мекендер мен басқа да объектілерге қарай жүру бағыттары. Белгілерде 5.29.1 белгісінің суреті, автомагистральдардың, әуежайдың символдары, спорттық және өзге де пиктрограммалар салынуы мүмкін. 5.20.1 белгісінде жүру ерекшеліктері туралы хабарлайтын басқа белгілердің суреті салынуы мүмкін. 5.20.1 белгісінің төменгі бөлігінде белгіні орнату орнынан бастап жол қиылысына немесе тежеу жолағының басталуына дейінгі арақашықтық көрсетіледі. 5.20.1 белгісі, сондай-ақ 3.11 – 3.15 тыйым салу белгілерінің бірі орнатылған жолдардың учаскелерін айналып өтуді нұсқау үшін де қолданылады."
+      },
+      {
+        "number": "5.20.2",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/KZ_road_sign_5.20.2_A.svg/120px-KZ_road_sign_5.20.2_A.svg.png",
+        "name": "Бағытты алдын ала нұсқағыш",
+        "description": ""
+      },
+      {
+        "number": "5.20.3",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/SU_road_sign_5.20.3.svg/120px-SU_road_sign_5.20.3.svg.png",
+        "name": "Жүру схемасы",
+        "description": "Жол қиылысында жекелеген маневрлерге тыйым салу кезіндегі жүру маршруты немесе күрделі жол қиылысында рұқсат етілген жүру бағыттары."
+      },
+      {
+        "number": "5.21.1",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/KZ_road_sign_5.21.1_A.svg/120px-KZ_road_sign_5.21.1_A.svg.png",
+        "name": "Бағытты нұсқағыш",
+        "description": "Маршрут пункттеріне жүру бағыттары. Белгілерде онда белгіленген объектілерге дейінгі арақашықтық (км) көрсетілуі, автомагистральдардың, әуежайдың символдары, спорттық және өзге де пиктрограммалар салынуы мүмкін."
+      },
+      {
+        "number": "5.21.2",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/KZ_road_sign_5.21.2_A.svg/120px-KZ_road_sign_5.21.2_A.svg.png",
+        "name": "Бағытты нұсқағыш"
+      },
+      {
+        "number": "5.22",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/KZ_road_sign_5.22.svg/120px-KZ_road_sign_5.22.svg.png",
+        "name": "Елді мекеннің басталуы",
+        "description": "Қағидалардың елді мекендерде жүру тәртібін белгілейтін талаптары қолданылатын елді мекеннің атауы және басталуы."
+      },
+      {
+        "number": "5.23",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/KZ_road_sign_5.23.svg/120px-KZ_road_sign_5.23.svg.png",
+        "name": "Елді мекеннің аяқталуы",
+        "description": "Қағидалардың елді мекендерде жүру тәртібін белгілейтін талаптарының күші жоғалатын осы жолдағы орын."
+      },
+      {
+        "number": "5.24",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/KZ_road_sign_5.24.svg/120px-KZ_road_sign_5.24.svg.png",
+        "name": "Елді мекеннің басталуы",
+        "description": "Қағидалардың елді мекендерде жүру тәртібін белгілейтін талаптары осы жолда қолданылмайтын елді мекеннің атауы және басталуы."
+      },
+      {
+        "number": "5.25",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/KZ_road_sign_5.25.svg/120px-KZ_road_sign_5.25.svg.png",
+        "name": "Елді мекеннің аяқталуы",
+        "description": "Белгісімен белгіленген елді мекеннің аяқталуы 5.24."
+      },
+      {
+        "number": "5.26",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/KZ_road_sign_5.26_A.svg/120px-KZ_road_sign_5.26_A.svg.png",
+        "name": "Объектінің атауы",
+        "description": "Елді мекенге қарағанда өзге объектінің атауы (өзен, көл, асу, назар аударарлық орындар және соған ұқсастар)."
+      },
+      {
+        "number": "5.27",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/KZ_road_sign_5.27_A.svg/120px-KZ_road_sign_5.27_A.svg.png",
+        "name": "Арақашықтықтарды нұсқағыш",
+        "description": "Маршрутта орналасқан елді мекендерге дейінгі арақашықтық (км)."
+      },
+      {
+        "number": "5.28",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/SU_road_sign_5.28.svg/120px-SU_road_sign_5.28.svg.png",
+        "name": "Километр белгісі",
+        "description": "Жолдың басына немесе аяғына дейінгі арақашықтық (км)."
+      },
+      {
+        "number": "5.29.1",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SU_road_sign_5.29.1_A.svg/120px-SU_road_sign_5.29.1_A.svg.png",
+        "name": "Маршруттың нөмірі",
+        "description": "Жолға (маршрутқа) берілген нөмір."
+      },
+      {
+        "number": "5.29.2",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/RU_road_sign_6.14.2_A.svg/120px-RU_road_sign_6.14.2_A.svg.png",
+        "name": "Маршруттың нөмірі",
+        "description": "Жолдың (маршруттың) нөмірі мен бағыты."
+      },
+      {
+        "number": "5.30.1",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/RU_road_sign_6.15.1.svg/120px-RU_road_sign_6.15.1.svg.png",
+        "name": "Жүк автомобильдері үшін жүру бағыты",
+        "description": "Егер жол қиылысында бағыттардың біреуімен олардың жүруіне тыйым салынса, жүк автомобильдері, тракторлар мен өздігінен жүретін машиналар үшін ұсынылатын жүру бағыты."
+      },
+      {
+        "number": "5.31",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/KZ_road_sign_5.31.svg/120px-KZ_road_sign_5.31.svg.png",
+        "name": "Айналып өту схемасы",
+        "description": "Жүру үшін уақытша жабық жол учаскесін айналып өту маршруты."
+      },
+      {
+        "number": "5.32.1",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/KZ_road_sign_5.32.1.svg/120px-KZ_road_sign_5.32.1.svg.png",
+        "name": "Айналып өту бағыты",
+        "description": "Жүру үшін уақытша жабық жол учаскесінің бағыты."
+      },
+      {
+        "number": "5.33",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/KZ_road_sign_5.33.svg/120px-KZ_road_sign_5.33.svg.png",
+        "name": "Тоқтау сызығы",
+        "description": "Бағдаршамның (реттеушінің) тыйым салатын сигналы кезінде көлік құралдарының тоқтау орны."
+      },
+      {
+        "number": "5.34.1",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/RU_road_sign_6.19.1.svg/120px-RU_road_sign_6.19.1.svg.png",
+        "name": "Басқа жүру бөлігіне ауысудың алдын ала нұсқағышы",
+        "description": "Бөлу жолағы бар жолда жүру бөлігінің жүру үшін жабық учаскесін айналып өту бағыты немесе оң жақтағы жүру бөлігіне қайту үшін жүру бағыты."
+      },
+      {
+        "number": "5.35",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/RU_road_sign_5.8.svg/120px-RU_road_sign_5.8.svg.png",
+        "name": "Реверстік жүріс",
+        "description": "Бір немесе бірнеше жолақта жүру бағыты қарама-қарсыға өзгеруі мүмкін жол учаскесінің басталуы."
+      },
+      {
+        "number": "5.36",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/RU_road_sign_5.9.svg/120px-RU_road_sign_5.9.svg.png",
+        "name": "Реверстік жүрістің аяқталуы",
+        "description": ""
+      },
+      {
+        "number": "5.37",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/RU_road_sign_5.10.svg/120px-RU_road_sign_5.10.svg.png",
+        "name": "Реверстік жүру жолына шығу",
+        "description": ""
+      },
+      {
+        "number": "5.38",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/RU_road_sign_5.21.svg/120px-RU_road_sign_5.21.svg.png",
+        "name": "Тұрғын аймақ",
+        "description": "Қағидалардың тұрғын аймақта жүру тәртібін белгілейтін талаптары қолданылатын аумақ."
+      },
+      {
+        "number": "5.39",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/RU_road_sign_5.22.svg/120px-RU_road_sign_5.22.svg.png",
+        "name": "Тұрғын аймақтың аяқталуы",
+        "description": ""
+      },
+      {
+        "number": "5.40",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/KZ_road_sign_5.40.svg/120px-KZ_road_sign_5.40.svg.png",
+        "name": "Ең жоғары жылдамдықты жалпы шектеулер",
+        "description": ""
+      },
+      {
+        "number": "5.41",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/RU_road_sign_6.5.svg/120px-RU_road_sign_6.5.svg.png",
+        "name": "Авариялық тоқтауға арналған алаң",
+        "description": ""
+      },
+      {
+        "number": "5.42",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/5.41_Uzbekistan_road_sign.svg/120px-5.41_Uzbekistan_road_sign.svg.png",
+        "name": "Фотобейнетіркеу",
+        "description": "Қағидаларды бұзуларды стационарлық сертификатталған арнайы техникалық құралмен және аспаппен тіркеу жүзеге асырылады."
+      },
+      {
+        "number": "5.43",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/RU_road_sign_5.20.svg/120px-RU_road_sign_5.20.svg.png",
+        "name": "Жасанды кедір-бұдыр",
+        "description": "Жасанды кедір-бұдыр шекараларын белгілеу үшін қолданылуға тиіс. Белгі жасанды кедір-бұдырдың немесе жақын келетін көлік құралдарына қатысты 1.25 таңбасының жақын шегінде орнатылады."
+      },
+      {
+        "number": "5.44",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/RU_road_sign_5.27.svg/120px-RU_road_sign_5.27.svg.png",
+        "name": "Шектеуі бар тұрақ аймағы",
+        "description": "Тұрақтауға тыйым салынған аумақтан (жол учаскесі) басталатын орын."
+      },
+      {
+        "number": "5.45",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/RU_road_sign_5.28.svg/120px-RU_road_sign_5.28.svg.png",
+        "name": "Шектеуі бар тұрақ аймағының соңы",
+        "description": ""
+      },
+      {
+        "number": "5.46",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RU_road_sign_5.31.svg/120px-RU_road_sign_5.31.svg.png",
+        "name": "Ең жоғарғы жылдамдықты шектеу аймағы",
+        "description": ""
+      },
+      {
+        "number": "5.47",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/RU_road_sign_5.32.svg/120px-RU_road_sign_5.32.svg.png",
+        "name": "Ең жоғарғы жылдамдықты шектеу аймағының соңы",
+        "description": ""
+      },
+      {
+        "number": "5.48",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RU_road_sign_5.33.svg/120px-RU_road_sign_5.33.svg.png",
+        "name": "Жаяу жүргіншілер аймағы",
+        "description": "Жаяу жүргіншілердің ғана қозғалысына рұқсат етілген аумақтан (жол учаскесі) басталатын орын."
+      },
+      {
+        "number": "5.49",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/RU_road_sign_5.34.svg/120px-RU_road_sign_5.34.svg.png",
+        "name": "Жаяу жүргіншілер аймағының соңы",
+        "description": ""
+      },
+      {
+        "number": "5.50",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/RU_road_sign_5.35.svg/120px-RU_road_sign_5.35.svg.png",
+        "name": "Механикалық көлік құралдарының экологиялық сыныбы шектелген аймақ",
+        "description": ""
+      },
+      {
+        "number": "5.51",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/RU_road_sign_5.36.svg/120px-RU_road_sign_5.36.svg.png",
+        "name": "Механикалық көлік құралдарының экологиялық сыныбы шектелген аймақтың соңы",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "Сервис белгілері",
+    "signs": [
+      {
+        "number": "6.1",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/RU_road_sign_7.1.svg/120px-RU_road_sign_7.1.svg.png",
+        "name": "Алғашқы медициналық жәрдем пункті",
+        "description": ""
+      },
+      {
+        "number": "6.2",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/RU_road_sign_7.2.svg/120px-RU_road_sign_7.2.svg.png",
+        "name": "Аурухана",
+        "description": ""
+      },
+      {
+        "number": "6.3",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/RU_road_sign_7.3.svg/120px-RU_road_sign_7.3.svg.png",
+        "name": "Автожанармай құю станциясы",
+        "description": ""
+      },
+      {
+        "number": "6.3а",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/KZ_road_sign_6.3_%D0%B0.svg/120px-KZ_road_sign_6.3_%D0%B0.svg.png",
+        "name": "Сұйытылған мұнай газындағы автожанармай құю станциясы",
+        "description": ""
+      },
+      {
+        "number": "6.3б",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/KZ_road_sign_6.3_%D0%B1.svg/120px-KZ_road_sign_6.3_%D0%B1.svg.png",
+        "name": "Сығылған табиғи газдағы жанармай құю станциясы",
+        "description": ""
+      },
+      {
+        "number": "6.4",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/RU_road_sign_7.4.svg/120px-RU_road_sign_7.4.svg.png",
+        "name": "Автомобильдерге техникалық қызмет көрсету",
+        "description": ""
+      },
+      {
+        "number": "6.5",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/RU_road_sign_7.5.svg/120px-RU_road_sign_7.5.svg.png",
+        "name": "Автомобильдерді жуу",
+        "description": ""
+      },
+      {
+        "number": "6.6",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/RU_road_sign_7.6.svg/120px-RU_road_sign_7.6.svg.png",
+        "name": "Телефон станциясы",
+        "description": ""
+      },
+      {
+        "number": "6.7",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/RU_road_sign_7.7.svg/120px-RU_road_sign_7.7.svg.png",
+        "name": "Тамақтану пункті",
+        "description": ""
+      },
+      {
+        "number": "6.8",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/RU_road_sign_7.8.svg/120px-RU_road_sign_7.8.svg.png",
+        "name": "Ауыз су",
+        "description": ""
+      },
+      {
+        "number": "6.9",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/RU_road_sign_7.9.svg/120px-RU_road_sign_7.9.svg.png",
+        "name": "Қонақ үй немесе мотель",
+        "description": ""
+      },
+      {
+        "number": "6.10",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/RU_road_sign_7.10.svg/120px-RU_road_sign_7.10.svg.png",
+        "name": "Кемпинг",
+        "description": ""
+      },
+      {
+        "number": "6.11",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/RU_road_sign_7.11.svg/120px-RU_road_sign_7.11.svg.png",
+        "name": "Демалу орны",
+        "description": ""
+      },
+      {
+        "number": "6.12",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/KZ_road_sign_6.12.svg/120px-KZ_road_sign_6.12.svg.png",
+        "name": "Жол полициясы бекеті",
+        "description": ""
+      },
+      {
+        "number": "6.13",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/RU_road_sign_7.14.2.svg/120px-RU_road_sign_7.14.2.svg.png",
+        "name": "Көліктік бақылау бекеті",
+        "description": ""
+      },
+      {
+        "number": "6.14",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/KZ_road_sign_6.14.svg/120px-KZ_road_sign_6.14.svg.png",
+        "name": "Полиция",
+        "description": ""
+      },
+      {
+        "number": "6.15",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/KZ_road_sign_6.15.svg/120px-KZ_road_sign_6.15.svg.png",
+        "name": "Жол жүрісі түралы ақпарат беретін радиостанцияны қабылдаү аймағы",
+        "description": ""
+      },
+      {
+        "number": "6.16",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/KZ_road_sign_6.16.svg/120px-KZ_road_sign_6.16.svg.png",
+        "name": "Авариялық қызметтермен радиобайланыс аймағы",
+        "description": ""
+      },
+      {
+        "number": "6.17",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/RU_road_sign_7.17.svg/120px-RU_road_sign_7.17.svg.png",
+        "name": "Бассейн немесе жағажай",
+        "description": ""
+      },
+      {
+        "number": "6.18",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/RU_road_sign_7.18.svg/120px-RU_road_sign_7.18.svg.png",
+        "name": "Дәретхана",
+        "description": ""
+      },
+      {
+        "number": "6.19",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/RU_road_sign_7.21.svg/120px-RU_road_sign_7.21.svg.png",
+        "name": "Электромобильдерді зарядтау мүмкіндігі бар автожанармай құю станциясы",
+        "description": ""
+      },
+      {
+        "number": "6.20",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/KZ_road_sign_6.20.svg/120px-KZ_road_sign_6.20.svg.png",
+        "name": "Экологиялық бақылау",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "Қосымша ақпарат белгілері (тақтайшалар)",
+    "signs": [
+      {
+        "number": "7.1.1",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/RU_road_sign_8.1.1.svg/120px-RU_road_sign_8.1.1.svg.png",
+        "name": "Объектіге дейінгі арақашықтық",
+        "description": "Белгіден қауіпті учаскенің, тиісті шектеу енгізу орнының немесе жүру барысы бойынша алдағы белгілі бір объектінің (орынның) басталуына дейінгі арақашықтықты көрсетеді."
+      },
+      {
+        "number": "7.1.2",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/RU_road_sign_8.1.2.svg/120px-RU_road_sign_8.1.2.svg.png",
+        "name": "Егер жол қиылысының тікелей алдында 2.5 белгісі орнатылған жағдайда 2.4 белгісінен жол қиылысына дейінгі арақашықтықты көрсетеді."
+      },
+      {
+        "number": "7.1.3",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/RU_road_sign_8.1.3.svg/120px-RU_road_sign_8.1.3.svg.png",
+        "name": "Жолдан тысқары тұрған объектіге дейінгі арақашықтықты көрсетеді."
+      },
+      {
+        "number": "7.2.2",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/RU_road_sign_8.2.2.svg/120px-RU_road_sign_8.2.2.svg.png",
+        "name": "7.2.2 белгісі 3.27 - 3.30 тыйым салатын белгілердің қолданылу аймағын көрсетеді; 7.2.3 белгісі 3.27 - 3.30 белгілерінің қолданылу аймағының аяқталғанын көрсетеді; 7.2.4 белгісі жүргізушілерге олар 3.27 - 3.30 белгілерінің қолданылу аймағында екендігі туралы хабарлайды; 7.2.5, 7.2.6 белгілері алаңның, ғимарат фасадының және осыған ұқсастардың бір жағының бойында тоқтауға немесе тоқтап тұруға тыйым салу кезінде 3.27 - 3.30 белгілерінің бағытын және қолданылу аймағын көрсетеді."
+      },
+      {
+        "number": "7.3.1",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/RU_road_sign_8.3.1.svg/120px-RU_road_sign_8.3.1.svg.png",
+        "name": "Қолданылу бағыттары",
+        "description": "Жол қиылысы алдында орнатылған белгілердің қолданылу бағытын немесе жолдың тікелей жанында тұрған таңбаланған объектілерге жүру бағытын көрсетеді."
+      },
+      {
+        "number": "7.4.1",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/RU_road_sign_8.4.1.svg/120px-RU_road_sign_8.4.1.svg.png",
+        "name": "Көлік құралының түрі",
+        "description": "елгінің күші қолданылатын көлік құралының түрін көрсетеді."
+      },
+      {
+        "number": "7.4.8а",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/RU_road_sign_8.21.3.svg/120px-RU_road_sign_8.21.3.svg.png",
+        "name": "Маршруттық көлік құралының түрі",
+        "description": ""
+      },
+      {
+        "number": "7.4.8б",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/KZ_road_sign_7.4.8_%D0%B1.svg/120px-KZ_road_sign_7.4.8_%D0%B1.svg.png",
+        "name": "Туристік автобус",
+        "description": "Туристік автобусты тоқтату және оған туристерді отырғызу үшін алаңды көрсету үшін 5.15 \"Тұру орны\" белгісімен қолданылады."
+      },
+      {
+        "number": "7.4.9",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/KZ_road_sign_7.4.9.svg/120px-KZ_road_sign_7.4.9.svg.png",
+        "name": "Көлік құралдары түрінен басқа",
+        "description": "Белгі әрекет етпейтін көлік құралының түрін көрсетеді."
+      },
+      {
+        "number": "7.5.1",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/RU_road_sign_8.5.1.svg/120px-RU_road_sign_8.5.1.svg.png",
+        "name": "Сенбі, жексенбі және мереке күндері",
+        "description": ""
+      },
+      {
+        "number": "7.5.2",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/RU_road_sign_8.5.2.svg/120px-RU_road_sign_8.5.2.svg.png",
+        "name": "Жұмыс күндері"
+      },
+      {
+        "number": "7.5.3",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/KZ_road_sign_7.5.3.svg/120px-KZ_road_sign_7.5.3.svg.png",
+        "name": "Апта күндері"
+      },
+      {
+        "number": "7.5.4",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/RU_road_sign_8.5.4.svg/120px-RU_road_sign_8.5.4.svg.png",
+        "name": "Қолданылу уақыты",
+        "description": "Белгі қолданылатын тәуліктің уақытын көрсетеді."
+      },
+      {
+        "number": "7.5.5",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/RU_road_sign_8.5.5.svg/120px-RU_road_sign_8.5.5.svg.png",
+        "name": "Белгі қолданылатын аптаның күндері мен тәуліктің уақытын көрсетеді."
+      },
+      {
+        "number": "7.6.1",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/RU_road_sign_8.6.1.svg/120px-RU_road_sign_8.6.1.svg.png",
+        "name": "Көлік құралын тұраққа қоюдың тәсілі",
+        "description": "7.6.1 барлық көлік құралдары тротуардың бойымен жүру бөлігіне қойылуы тиіс екенін көрсетеді; 7.6.2 - 7.6.10 жеңіл автомобильдер мен мотоциклдерді тротуар маңындағы тұраққа қоюдың тәсілін көрсетеді. 5.15 белгісімен қолданылады. 7.6.2-7.6.18 кестелері жеңіл автокөліктер мен мотоциклдерді қою тәсілін көрсетеді."
+      },
+      {
+        "number": "7.7",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/RU_road_sign_8.7.svg/120px-RU_road_sign_8.7.svg.png",
+        "name": "Жұмыс істемейтін қозғалтқышпен тоқтап тұру",
+        "description": "5.15 белгісімен белгіленген тұрақта қозғалтқышы жұмыс істемейтін көлік құралдарына ғана тоқтап тұруға рұқсат етілетіндігін көрсетеді."
+      },
+      {
+        "number": "7.8",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/RU_road_sign_8.8.svg/120px-RU_road_sign_8.8.svg.png",
+        "name": "Ақылы қызмет көрсетулер",
+        "description": "Қызмет тек қана ақыға ғана көрсетілетінін көрсетеді."
+      },
+      {
+        "number": "7.9",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/RU_road_sign_8.9.1.svg/120px-RU_road_sign_8.9.1.svg.png",
+        "name": "Тоқтап тұрудың ұзақтығын шектеу",
+        "description": "Көлік құралының 5.15 белгісімен белгіленген тұрақта болуының ең жоғары уақыт ұзақтығын көрсетеді."
+      },
+      {
+        "number": "7.10",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/RU_road_sign_8.10.svg/120px-RU_road_sign_8.10.svg.png",
+        "name": "Автомобильдерді қарап тексеруге арналған орын",
+        "description": "5.15 немесе 6.11. белгісімен таңбаланған алаңда эстакада немесе қарау шұңқыры бар екенін көрсетеді."
+      },
+      {
+        "number": "7.11",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/RU_road_sign_8.11.svg/120px-RU_road_sign_8.11.svg.png",
+        "name": "Толық массаны шектеу",
+        "description": "Белгінің күші рұқсат етілген ең жоғары массасы тақтайшада көрсетілгеннен асатын көлік құралдарына ғана қолданылатынын көрсетеді."
+      },
+      {
+        "number": "7.13",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RU_road_sign_8.13.svg/120px-RU_road_sign_8.13.svg.png",
+        "name": "Басты жолдың бағыты",
+        "description": "Жол қиылысында басты жолдың бағытын көрсетеді."
+      },
+      {
+        "number": "7.14",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/RU_road_sign_8.14.svg/120px-RU_road_sign_8.14.svg.png",
+        "name": "Жүру жолағы",
+        "description": "Бөлігінің немесе бағдаршамның күші қолданылатын жүру жолағын көрсетеді."
+      },
+      {
+        "number": "7.15",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/RU_road_sign_8.15.svg/120px-RU_road_sign_8.15.svg.png",
+        "name": "Көру қабілетінен толық айырылған жаяу жүргіншілер",
+        "description": "Жаяу жүргіншілердің өтпесін көру қабілетінен толық айырылған адамдардың пайдаланатынын көрсетеді. 1.20, 5.16.1, 5.16.2 белгілерімен және бағдаршаммен бірге қолданылады."
+      },
+      {
+        "number": "7.16",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/RU_road_sign_8.16.svg/120px-RU_road_sign_8.16.svg.png",
+        "name": "Ылғалды жабын",
+        "description": "Белгі жүру бөлігінің жабыны ылғал уақыт кезеңінде қолданылатынын көрсетеді."
+      },
+      {
+        "number": "7.17",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/KZ_road_sign_7.17.svg/120px-KZ_road_sign_7.17.svg.png",
+        "name": "Мүгедектігі бар адамдар",
+        "description": "5.15 белгісінің \"мүгедектігі бар адам\" деген айырым белгісі орнатылған мотоколяскалар мен автомобильдерге ғана қолданылатынын көрсетеді."
+      },
+      {
+        "number": "7.18",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/KZ_road_sign_7.18.svg/120px-KZ_road_sign_7.18.svg.png",
+        "name": "Мүгедектігі бар адамдардан басқа",
+        "description": "Белгілердің қолданылуы \"мүгедектігі бар адам\" деген айырым белгісі орнатылған мотоколяскалар мен автомобильдерге қолданылмайтынын көрсетеді."
+      },
+      {
+        "number": "7.19",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/KZ_road_sign_7.19.svg/120px-KZ_road_sign_7.19.svg.png",
+        "name": "Қауіпті жүк сыныбы",
+        "description": "19433 МемСТ бойынша қауіпті жүктердің сынып (сыныптарының) нөмірін көрсетеді. 3.32, 4.9.1 - 4.9.3 белгілерімен қолданылады."
+      },
+      {
+        "number": "7.20",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/KZ_road_sign_7.20.svg/120px-KZ_road_sign_7.20.svg.png",
+        "name": "Маршруттық көлік құралының түрі",
+        "description": ""
+      },
+      {
+        "number": "7.21",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/RU_road_sign_8.24.svg/120px-RU_road_sign_8.24.svg.png",
+        "name": "Эвакуатор жұмыс істейді",
+        "description": ""
+      },
+      {
+        "number": "7.22",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/RU_road_sign_8.4.3.1.svg/120px-RU_road_sign_8.4.3.1.svg.png",
+        "name": "Көлік құралының түрі",
+        "description": "Сыртқы көзден зарядтау мүмкіндігі бар электромобильдер мен гибридті автомобильдерге қолданылады."
+      },
+      {
+        "number": "7.23",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/KZ_road_sign_7.23.svg/120px-KZ_road_sign_7.23.svg.png",
+        "name": "Көлік құралының түрінен басқа",
+        "description": "Сыртқы көзден зарядтау мүмкіндігі бар электромобильдер мен гибридті автомобильдерге қолданылмайды."
+      },
+      {
+        "number": "7.24",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/RU_road_sign_8.25.svg/120px-RU_road_sign_8.25.svg.png",
+        "name": "Көлік құралының экологиялық сыныбы",
+        "description": ""
+      },
+      {
+        "number": "7.25",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/RU_road_sign_8.26.svg/120px-RU_road_sign_8.26.svg.png",
+        "name": "Электромобильдерді зарядтау",
+        "description": ""
+      }
+    ]
+  }
+]
