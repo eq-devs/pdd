@@ -23,6 +23,11 @@
         <input type="text" id="searchInput" placeholder="Белгіні нөмірі немесе аты бойынша іздеу..." autocomplete="off">
       </div>
     </div>
+
+    <button class="gallery-trigger" id="openGallery">
+      <span class="icon">🖼️</span>
+      Галереяны көру
+    </button>
     
     <div class="hero-stats" style="margin-top: 24px; opacity: 0.6; font-size: 14px;">
         237 элемент • 9 санат • Соңғы жаңарту: 15.02.2026 15:02
@@ -2058,62 +2063,151 @@
   </div>
 </footer>
 
+<div class="viewer-overlay" id="viewerOverlay">
+  <div class="viewer-close" id="closeViewer">✕</div>
+  <div class="viewer-container">
+    <div class="viewer-nav prev" id="prevBtn">←</div>
+    <img src="" id="viewerImg" alt="Viewer Image">
+    <div class="viewer-nav next" id="nextBtn">→</div>
+  </div>
+  <div class="viewer-info">
+    <div id="imageName">Screenshot</div>
+    <div class="viewer-counter"><span id="currentIdx">1</span> / <span id="totalIdx">29</span></div>
+  </div>
+</div>
+
 <script>
-// Search logic
-const searchInput = document.getElementById('searchInput');
-const allCards = document.querySelectorAll('.sign-card');
-const allSections = document.querySelectorAll('.sign-section');
+  // --- Image Viewer Persistence Logic ---
+  const images = [
+    "images/Screenshot 2026-02-10 at 11.17.21 PM.png",
+    "images/Screenshot 2026-02-15 at 11.29.36 PM.png",
+    "images/Screenshot 2026-02-15 at 11.34.01 PM.png",
+    "images/Screenshot 2026-02-15 at 11.35.18 PM.png",
+    "images/Screenshot 2026-02-15 at 11.36.11 PM.png",
+    "images/Screenshot 2026-02-15 at 11.39.59 PM.png",
+    "images/Screenshot 2026-02-15 at 11.46.58 PM.png",
+    "images/Screenshot 2026-02-15 at 11.47.58 PM.png",
+    "images/Screenshot 2026-02-15 at 11.51.35 PM.png",
+    "images/Screenshot 2026-02-15 at 11.59.42 PM.png",
+    "images/Screenshot 2026-02-15 at 4.11.04 PM.png",
+    "images/Screenshot 2026-02-15 at 4.17.21 PM.png",
+    "images/Screenshot 2026-02-15 at 4.23.47 PM.png",
+    "images/Screenshot 2026-02-15 at 4.26.48 PM.png",
+    "images/Screenshot 2026-02-15 at 4.29.27 PM.png",
+    "images/Screenshot 2026-02-15 at 4.31.29 PM.png",
+    "images/Screenshot 2026-02-15 at 4.33.16 PM.png",
+    "images/Screenshot 2026-02-16 at 1.01.50 AM.png",
+    "images/Screenshot 2026-02-16 at 1.05.06 AM.png",
+    "images/Screenshot 2026-02-16 at 1.09.57 AM.png",
+    "images/Screenshot 2026-02-16 at 5.37.42 PM.png",
+    "images/Screenshot 2026-02-16 at 5.38.27 PM.png",
+    "images/Screenshot 2026-02-16 at 5.40.04 PM.png",
+    "images/Screenshot 2026-02-16 at 5.42.07 PM.png",
+    "images/Screenshot 2026-02-16 at 5.43.14 PM.png",
+    "images/Screenshot 2026-02-16 at 5.48.24 PM.png",
+    "images/Screenshot 2026-02-16 at 5.49.22 PM.png",
+    "images/Screenshot 2026-02-16 at 5.51.01 PM.png"
+  ];
 
-searchInput.addEventListener('input', () => {
-  const q = searchInput.value.toLowerCase().trim();
-  
+  let currentIndex = 0;
+  const overlay = document.getElementById('viewerOverlay');
+  const viewerImg = document.getElementById('viewerImg');
+  const closeBtn = document.getElementById('closeViewer');
+  const openBtn = document.getElementById('openGallery');
+  const prevBtn = document.getElementById('prevBtn');
+  const nextBtn = document.getElementById('nextBtn');
+  const currentIdxSpan = document.getElementById('currentIdx');
+  const totalIdxSpan = document.getElementById('totalIdx');
+  const imageNameDiv = document.getElementById('imageName');
+
+  totalIdxSpan.textContent = images.length;
+
+  function updateViewer() {
+    viewerImg.style.opacity = '0';
+    viewerImg.style.transform = 'scale(0.9) translateY(20px)';
+    
+    setTimeout(() => {
+      viewerImg.src = images[currentIndex];
+      currentIdxSpan.textContent = currentIndex + 1;
+      const filename = images[currentIndex].split('/').pop();
+      imageNameDiv.textContent = filename;
+      
+      viewerImg.onload = () => {
+        viewerImg.style.opacity = '1';
+        viewerImg.style.transform = 'scale(1) translateY(0)';
+      };
+    }, 300);
+  }
+
+  function nextImage() { currentIndex = (currentIndex + 1) % images.length; updateViewer(); }
+  function prevImage() { currentIndex = (currentIndex - 1 + images.length) % images.length; updateViewer(); }
+
+  openBtn.onclick = () => { overlay.classList.add('active'); document.body.style.overflow = 'hidden'; updateViewer(); };
+  closeBtn.onclick = () => { overlay.classList.remove('active'); document.body.style.overflow = 'auto'; };
+  overlay.onclick = (e) => { if (e.target === overlay) { overlay.classList.remove('active'); document.body.style.overflow = 'auto'; } };
+  nextBtn.onclick = (e) => { e.stopPropagation(); nextImage(); };
+  prevBtn.onclick = (e) => { e.stopPropagation(); prevImage(); };
+
+  document.addEventListener('keydown', (e) => {
+    if (!overlay.classList.contains('active')) return;
+    if (e.key === 'ArrowRight') nextImage();
+    if (e.key === 'ArrowLeft') prevImage();
+    if (e.key === 'Escape') { overlay.classList.remove('active'); document.body.style.overflow = 'auto'; }
+  });
+
+  // --- Search & UI Logic ---
+  const searchInput = document.getElementById('searchInput');
+  const allCards = document.querySelectorAll('.sign-card');
+  const allSections = document.querySelectorAll('.sign-section');
+
+  searchInput.addEventListener('input', () => {
+    const q = searchInput.value.toLowerCase().trim();
+    allCards.forEach(card => {
+      const name = card.querySelector('.sign-name').textContent.toLowerCase();
+      const badge = card.querySelector('.sign-badge').textContent.toLowerCase();
+      card.style.display = (name.includes(q) || badge.includes(q)) ? 'flex' : 'none';
+    });
+    allSections.forEach(section => {
+      const visible = section.querySelectorAll('.sign-card[style="display: flex;"]').length > 0;
+      section.style.display = (visible || q === "") ? 'block' : 'none';
+    });
+  });
+
   allCards.forEach(card => {
-    const text = card.textContent.toLowerCase();
-    card.style.display = text.includes(q) ? '' : 'none';
+    card.addEventListener('click', () => card.classList.toggle('expanded'));
   });
-  
-  allSections.forEach(section => {
-    const visibleCards = section.querySelectorAll('.sign-card:not([style*="display: none"])');
-    section.style.display = visibleCards.length > 0 ? '' : 'none';
-  });
-});
 
-// Expand cards logic
-allCards.forEach(card => {
-  card.addEventListener('click', () => {
-    card.classList.toggle('expanded');
+  // Sticky Nav
+  const navLinks = document.querySelectorAll('.nav-link');
+  window.addEventListener('scroll', () => {
+    let current = "";
+    allSections.forEach(section => {
+      if (pageYOffset >= section.offsetTop - 150) current = section.getAttribute("id");
+    });
+    navLinks.forEach(link => {
+      link.classList.remove("active");
+      if (link.getAttribute("href").includes(current)) link.classList.add("active");
+    });
   });
-});
 
-// Sticky nav + active links
-const navLinks = document.querySelectorAll('.nav-link');
-window.addEventListener('scroll', () => {
-  let current = "";
-  allSections.forEach(section => {
-    const sectionTop = section.offsetTop;
-    if (pageYOffset >= sectionTop - 150) {
-      current = section.getAttribute("id");
-    }
-  });
-  
-  navLinks.forEach(link => {
-    link.classList.remove("active");
-    if (link.getAttribute("href").includes(current)) {
-      link.classList.add("active");
-    }
-  });
-});
+  // Card Reveal & Mouse Effect
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        entry.target.classList.add('revealed');
+        observer.unobserve(entry.target);
+      }
+    });
+  }, { threshold: 0.1 });
 
-// Card Mouse Glow Effect (WOW Factor)
-document.addEventListener('mousemove', e => {
   allCards.forEach(card => {
-    const rect = card.getBoundingClientRect();
-    const x = e.clientX - rect.left;
-    const y = e.clientY - rect.top;
-    card.style.setProperty('--mouse-x', `${x}px`);
-    card.style.setProperty('--mouse-y', `${y}px`);
+    observer.observe(card);
+    card.addEventListener('mousemove', e => {
+      const rect = card.getBoundingClientRect();
+      card.style.setProperty('--mouse-x', `${e.clientX - rect.left}px`);
+      card.style.setProperty('--mouse-y', `${e.clientY - rect.top}px`);
+    });
   });
-});
 </script>
 
 </body>
